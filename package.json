@@ -1,0 +1,31 @@
+{
+  "name": "akshay_react_js",
+  "version": "1.0.0",
+  "description": "react ",
+  "scripts": {
+    "start":"parcel index.html" ,
+    "build":"parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laxmi20936/forcepoint-react-2025.git"
+  },
+  "keywords": [
+    "react",
+    "jest"
+  ],
+  "author": "laxmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laxmi20936/forcepoint-react-2025/issues"
+  },
+  "homepage": "https://github.com/laxmi20936/forcepoint-react-2025#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
