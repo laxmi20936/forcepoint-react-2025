@@ -1,0 +1,5 @@
+const ele = React.createElement("h1", {}, "kkkkkkkkk")
+        // console.log(ele)
+const root = ReactDOM.createRoot(document.getElementById("root"))
+        // console.log(root)
+root.render(ele)
