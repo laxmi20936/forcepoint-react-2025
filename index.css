@@ -1,0 +1,25 @@
+.res-container{
+   display: flex;
+   flex-wrap: wrap;
+   
+}
+.img-container{
+    height:40%
+}
+img{
+    width:100%;
+    height: 100%;
+}
+
+.res-card{
+    width: 250px;
+    border:1px solid black;
+    margin:7px;
+    height: 420px;
+   
+}
+
+.res-card-details{
+    padding-left:12px;
+    height:60%
+}
